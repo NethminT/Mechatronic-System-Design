@@ -1,12 +1,12 @@
 # 🌿 AgriBot – Autonomous Fertilizer Spraying and Plant Inspection Robot
 
 <p align="center">
-  <img src="images/agribot_full_design.png" alt="AgriBot CAD Model" width="600"/>
+  <img src="images/Picture1.PNG" alt="AgriBot CAD Model" width="600"/>
 </p>
 
 ## 🚀 Overview
 
-AgriBot is a four-wheel drive and four-wheel steerable robotic platform designed for precision agriculture tasks, including **targeted fertilization** and **real-time plant inspection**, specifically tailored for cabbage farming over moderately rugged terrain. The robot aims to enhance agricultural productivity and reduce labor involvement using **autonomous mobility**, **intelligent suspension**, **image-based disease detection**, and **ROS-based control integration**.
+AgriBot is a four-wheel drive and four-wheel steerable robotic platform designed for precision agriculture tasks, including **targeted fertilization** and **real-time plant inspection**, specifically tailored for cabbage farming over moderately rugged terrain. The robot aims to enhance agricultural productivity and reduce labor involvement using **autonomous mobility**, **suspension system**, **image-based disease detection**, and **ROS-based control integration**.
 
 ---
 
@@ -30,7 +30,7 @@ The robot addresses key challenges in smart agriculture:
 - **Suspension**: Parallelogram mechanism to ensure camera stability and traction in rough terrains.
 
 <p align="center">
-  <img src="images/chassis_suspension.png" alt="Chassis and Suspension" width="600"/>
+  <img src="images/Picture2.png" alt="Chassis and Suspension" width="600"/>
 </p>
 
 ---
@@ -42,7 +42,7 @@ The robot addresses key challenges in smart agriculture:
 - **Suspension damping analysis** for stability under dynamic loads.
   
 <p align="center">
-  <img src="images/ansys_results.png" alt="ANSYS Results" width="500"/>
+  <img src="images/Picture 3.PNG" alt="ANSYS Results" width="500"/>
 </p>
 
 ---
@@ -69,9 +69,6 @@ The robot addresses key challenges in smart agriculture:
 - Built dataset with multiple diseased leaf images due to lack of cabbage-specific datasets.
 - Trigger-based control: stops robot and activates pump upon detection.
 
-<p align="center">
-  <img src="images/leaf_detection_yolo.png" alt="YOLO Detection Sample" width="600"/>
-</p>
 
 ---
 
