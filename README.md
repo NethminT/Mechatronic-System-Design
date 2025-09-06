@@ -82,9 +82,10 @@ The robot addresses key challenges in smart agriculture:
 
 ## 📦 Tools & Technologies
 
+- `SOLIDWORKS` for 3D modeling
 - `MATLAB` for kinematic modeling
 - `ANSYS` & `ADAMS` for structural/dynamic simulations
-- `Arduino` for motor control
+- `Arduino` for low level control
 - `ROS (Noetic)` on `Ubuntu 20.04` for system integration
 - `YOLO` for real-time object detection
 
